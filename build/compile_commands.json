@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/boyheaven/Vscode/work/Mplayer/build",
+  "command": "/usr/bin/g++   -I/home/boyheaven/Vscode/work/Mplayer/include  -g   -std=c++11 -o CMakeFiles/mplayer.dir/src/mplayer.cpp.o -c /home/boyheaven/Vscode/work/Mplayer/src/mplayer.cpp",
+  "file": "/home/boyheaven/Vscode/work/Mplayer/src/mplayer.cpp"
+}
+]

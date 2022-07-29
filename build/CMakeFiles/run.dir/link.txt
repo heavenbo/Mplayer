@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/run.dir/src/mplayer.cpp.o  -o ../bin/run  /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.6.2 

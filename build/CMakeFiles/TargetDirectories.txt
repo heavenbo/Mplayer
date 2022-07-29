@@ -1,0 +1,3 @@
+/home/boyheaven/Vscode/work/Mplayer/build/CMakeFiles/rebuild_cache.dir
+/home/boyheaven/Vscode/work/Mplayer/build/CMakeFiles/edit_cache.dir
+/home/boyheaven/Vscode/work/Mplayer/build/CMakeFiles/mplayer.dir
